@@ -14,8 +14,8 @@
   {{ end }}
 </head>
 <body class="font-barlow font-extrabold">
-  <div class="min-h-screen">
-    <main>
+  <div class="min-h-screen flex flex-col">
+    <main class="flex-grow">
       {{ block "main" . }}{{ end }}
     </main>
   </div>
