@@ -2,7 +2,7 @@
   <div class="px-4 py-24">
     <div class="mx-auto w-full md:w-4/5">
       <h1 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">
-        <span class="inline-block bg-black text-green-white px-4">especiales</span>
+        <span class="inline-block bg-black text-green-white px-4">{{ .Title }}</span>
       </h1>
       {{ $size := len (where .Site.RegularPages "Section" "especiales") }}
       {{ range $index, $data := where .Pages "Section" "especiales" }}
