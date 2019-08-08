@@ -6,4 +6,4 @@ logo: "images/poder.png"
 website: "https://www.projectpoder.org/es/"
 ---
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit est animi laudantium sunt amet nihil, dolores rerum possimus quasi fuga aliquid nostrum nobis voluptates temporibus aliquam odio quae! Itaque repellat fuga est, nobis temporibus sunt pariatur ad neque voluptas a aliquam dolorum laudantium vero voluptate aperiam tenetur earum similique ipsam.
+El Proyecto sobre Organización, Desarrollo, Educación e Investigación (PODER) es una organización regional, no gubernamental, sin fines de lucro. Nuestra misión es fomentar la transparencia y rendición de cuentas de las empresas en América Latina desde la perspectiva de derechos humanos y fortalecer a los actores de la sociedad civil afectados por prácticas empresariales para que actúen como garantes de la rendición de cuentas a largo plazo.
