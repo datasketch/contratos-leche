@@ -5,9 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed:300,500i,800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href='{{ "css/tailwind.min.css" | absURL }}'>
   <link rel="stylesheet" href='{{ "css/base.css" | absURL }}'>
   {{ template "_internal/google_analytics_async.html" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
   {{ if .Title }}
     <title>{{ .Title }} · {{ .Site.Title }}</title>
   {{ else }}
@@ -17,10 +20,13 @@
 <body class="font-barlow font-extrabold antialiased">
   <div class="min-h-screen flex flex-col">
     <header class="sticky top-0 px-4 py-4 bg-white shadow z-10">
-      <nav class="flex items-center uppercase font-extrabold md:text-lg tracking-wide justify-between md:justify-start text-gray-900">
-        <a href="{{ .Site.BaseURL }}" class="md:mr-8">Inicio</a>
-        <a href="{{ .Site.BaseURL }}#sobre-la-red" class="md:mr-8">Sobre la red</a>
-        <a href="/integrantes">Integrantes</a>
+      <nav class="flex items-center uppercase font-extrabold md:text-lg tracking-wide justify-between text-gray-900">
+        <div>
+          <a href="{{ .Site.BaseURL }}" class="mr-4 md:mr-8">Inicio</a>
+          <a href="{{ .Site.BaseURL }}#sobre-la-red" class="mr-4 md:mr-8">Sobre la red</a>
+          <a href="/integrantes">Integrantes</a>
+        </div>
+        <a href="https://twitter.com/redpalta"><i class="fa fa-twitter"></i></a>
       </nav>
     </header>
     <main class="flex-grow">

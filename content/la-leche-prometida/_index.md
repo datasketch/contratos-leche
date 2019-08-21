@@ -1,5 +1,8 @@
 ---
 title: La leche prometida
+description: "Contrataciones estatales de productos lácteos en América Latina: concentración, irregularidades y programas que no llegan a los sectores vulnerables"
+images:
+  - images/milk.png
 sites:
   - name: Datasketch
     country: Colombia
