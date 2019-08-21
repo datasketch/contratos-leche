@@ -7,6 +7,7 @@
   <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed:300,500i,800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href='{{ "css/tailwind.min.css" | absURL }}'>
   <link rel="stylesheet" href='{{ "css/base.css" | absURL }}'>
+  {{ template "_internal/google_analytics_async.html" . }}
   {{ if .Title }}
     <title>{{ .Title }} · {{ .Site.Title }}</title>
   {{ else }}
