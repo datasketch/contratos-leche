@@ -14,22 +14,6 @@
   background: #F7F7F7;
 }
 
-.text-7xl,
-.sm\:text-7xl,
-.md\:text-7xl, 
-.lg\:text-7xl,
-.xl\:text-7xl {
-  font-size: 5rem;
-}
-
-.text-8xl,
-.sm\:text-8xl,
-.md\:text-8xl, 
-.lg\:text-8xl,
-.xl\:text-8xl {
-  font-size: 6rem;
-}
-
 .md-content > * {
   margin-bottom: 1rem;
 }
@@ -43,4 +27,13 @@
   text-transform: uppercase;
   font-weight: 800;
   letter-spacing: 0.05em;
+}
+
+@media screen and (min-width: 768px) {
+  .text-7xl {
+    font-size: 5rem;
+  }
+  .text-8xl {
+    font-size: 6rem;
+  }
 }

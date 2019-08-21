@@ -16,7 +16,7 @@ sites:
     website: https://ladiaria.com.uy/articulo/2019/8/los-debes-de-la-ley-de-produccion-familiar-agropecuaria-y-su-nulo-impacto-en-el-sector-lacteo/
     bg: images/bg-ladiaria.png
     description: "En 2014, el Parlamento de Uruguay aprobó una ley buscando que los pequeños productores familiares pudieran hacerse lugar en el siempre codiciado mercado de las compras estatales. En este país el 9% de la población tiene vínculos laborales con el Estado, las vacas triplican a las personas y se producen más de 2.000 millones de litros de leche por año, pero la norma no repercutió en el sector. A continuación, la historia del único establecimiento lechero que se acogió a los beneficios de la ley y sus imprevistas dificultades para sumarse a la lista de proveedores del sector público. Además, los escasos efectos de una normativa que no tuvo el alcance esperado y que parece ser totalmente ignorada por los organismos que deben implementarla."
-  - name: La Nación
+  - name: La Nacion
     country: Argentina
     website: http://www.lanacion.com.ar/sociedad/leche-fortificada-entregan-mitad-programa-clave-bebes-nid2279264
     bg: images/bg-lanacion.png

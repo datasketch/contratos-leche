@@ -1,12 +1,12 @@
 {{ define "main" }}
 <div class="px-4 bg-alabaster py-24">
   <div class="text-center mb-16">
-    <h1 class="uppercase text-4xl md:text-6xl tracking-wider mb-4 px-4 text-white bg-black inline-block">{{ .Title }}</h1>
+    <h1 class="uppercase text-2xl md:text-6xl tracking-wider mb-4 px-4 text-white bg-black inline-block">{{ .Title }}</h1>
     <div class="max-w-xl mx-auto">
-      <p class="text-2xl">{{ .Description }}</p>
+      <p class="text-lg md:text-2xl">{{ .Description }}</p>
     </div>
   </div>
-  <div class="w-full mx-auto md:w-4/6 md-content font-normal text-lg md:text-xl">
+  <div class="w-full mx-auto md:w-4/6 md-content font-normal text-base md:text-xl">
     {{ .Content }}
   </div>
 </div>
