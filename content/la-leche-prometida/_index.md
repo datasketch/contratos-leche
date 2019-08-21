@@ -27,7 +27,7 @@ sites:
     country: Guatemala
     website: http://www.ojoconmipisto.com/open-contracting/lecheprometida/
     bg: images/bg-ojoconmipisto.png
-    description: "Tecno Suministros, S.A. es el proveedor favorito de leche en polvo del ministerio de Educación. Se trata de la compañía propiedad de Carlos Alejandro Fión Rossal, hijo del diputado que impulsó la Ley de Alimentación Escolar y que se benefició de ella. La normativa aumentó la inversión de Q1.11 a Q4 por estudiante, esto favoreció no solo a los niños que estudian en escuelas públicas sino también a las empresas de la familia Fión. Con 59 contratos que suman más de Q3.7 millones, Tecno Suministros es la más contratada para dar leche en las aulas."
+    description: "Tecno Suministros, S.A. es el proveedor preferido de leche en polvo del ministerio de Educación. Se trata de la compañía propiedad de Carlos Alejandro Fión Rossal, hijo del diputado que impulsó la Ley de Alimentación Escolar y que se benefició de ella. La normativa aumentó la inversión de Q1.11 a Q4 por estudiante, esto favoreció no solo a los niños que estudian en escuelas públicas sino también a las empresas de la familia Fión. Con 59 contratos que suman más de Q3.7 millones, Tecno Suministros es la más contratada para dar leche en las aulas."
   - name: Ojo Público
     country: Perú
     website: https://ojo-publico.com/1331/familia-lechera-los-millonarios-contratos-del-grupo-niisa-con-el-vaso-de-leche
