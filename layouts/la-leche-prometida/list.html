@@ -1,0 +1,40 @@
+{{ define "main" }}
+  <div class="px-4 bg-cover bg-no-repeat bg-center py-16" style="background-image: url(/images/milk.png)">
+    <div class="w-full md:w-4/5 m-auto">
+      <h3 class="uppercase text-4xl md:text-7xl tracking-wider mb-4 px-4">
+        <span class="block">la leche</span>
+        <span class="inline-block bg-black text-green-white px-4">prometida</span>
+      </h3>
+      <div class="max-w-sm pl-4 mb-6">
+        <p class="italic font-light text-lg">Contrataciones estatales de productos lácteos en América Latina: concentración, irregularidades y programas que no llegan a los sectores vulnerables</p>
+      </div>
+      <div class="pl-4">
+        <a href="/post/la-leche-prometida" class="uppercase border-2 border-black px-4 py-1 tracking-wider hover:bg-black hover:text-white mr-4 inline-block">leer artículo</a>
+      </div>
+    </div>
+  </div>
+  <div class="px-4 py-24 bg-alabaster">
+    <div class="w-full md:w-4/5 mx-auto">
+      {{ $size := len .Params.sites }}
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Especiales</h2>
+      {{ range .Params.sites }}
+        <div class="mb-16">
+          <div style="background-image: url({{ .bg | absURL }})" class="block relative h-64 bg-cover bg-center bg-no-repeat">
+            <div class="absolute bottom-0 left-0 bg-black text-green-white block uppercase leading-none py-4 pl-8 w-full md:w-56">
+              <h3 class="text-3xl tracking-wider">{{ .country }}</h3>
+              <p class="text-lg md:text-xl italic font-medium">{{ .name }}</p>
+            </div>
+          </div>
+          <p class="font-light lg:max-w-4xl my-6 text-xl">{{ .description }}</p>
+          <a href="{{ .website }}" class="uppercase border-2 border-black px-4 py-1 tracking-wider hover:bg-black hover:text-white mr-4 inline-block" rel="noopener noreferrer" target="_blank">leer historias</a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+  <div class="px-4 py-24 bg-black">
+    <div class="w-full md:w-4/5 mx-auto bg-black text-alabaster">
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Sobre el proyecto</h2>
+      <p class="font-medium italic text-lg md:text-xl lg:max-w-4xl">Estos reportajes forman parte de la investigación regional "La leche prometida", liderada por la red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Red PALTA), que integra La Diaria de Uruguay, El Faro de El Salvador, OjoPublico de Perú, Datasketch de Colombia, La Nación de Argentina, PODER de Mexico y OjoConMiPisto de Guatemala</p>
+    </div>
+  </div>
+{{ end }}

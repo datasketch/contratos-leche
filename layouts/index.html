@@ -1,5 +1,50 @@
 {{ define "main" }}
-  <div class="px-4 bg-cover bg-no-repeat bg-center h-screen flex flex-col" style="background-image: url(/images/bg.png)">
+  <div class="px-4 bg-cover bg-no-repeat bg-center py-32" style="background-image: url(/images/bg.png)">
+    <div class="mx-auto w-full md:w-4/5">
+      <h2 class="uppercase text-4xl md:text-8xl tracking-wider mb-4 text-white bg-black inline-block px-4">Red PALTA</h2>
+      <p class="uppercase text-xl md:text-3xl tracking-wider">
+        <span class="bg-black text-white inline-block px-4">PERIODISTAS DE AMÉRICA LATINA POR</span><span class="block"></span>
+        <span class="bg-black text-white inline-block px-4">LA TRANSPARENCIA Y LA</span><span class="block"></span>
+        <span class="bg-black text-white inline-block px-4">ANTICORRUPCIÓN</span>
+      </p>
+    </div>
+  </div>
+  <div class="flex">
+    <div class="bg-cover bg-no-repeat bg-center hidden md:block w-1/2" style="background-image: url(/images/milk.png)"></div>
+    <div class="py-24 px-10 w-1/2">
+      <div class="max-w-sm mx-auto">
+        <p class="italic uppercase font-light">investigación</p>
+        <h3 class="uppercase leading-tight text-2xl md:text-4xl mb-6">
+          <span class="block">la leche</span>
+          <span class="inline-block bg-black text-green-white px-4">prometida</span>
+        </h3>
+        <p class="italic font-light text-lg mb-10">Contrataciones estatales de productos lácteos en América Latina: concentración, irregularidades y programas que no llegan a los sectores vulnerables</p>
+        <a href="/la-leche-prometida" class="uppercase border-2 border-black px-4 py-1 tracking-wider hover:bg-black hover:text-white mr-4 inline-block">ver artículos</a>
+      </div>
+    </div>
+  </div>
+  <div class="px-4 py-24 bg-black" id="sobre-la-red">
+    <div class="w-full md:w-4/5 mx-auto bg-black text-alabaster">
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Sobre la red</h2>
+      <p class="font-medium italic text-lg md:text-xl lg:max-w-4xl">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi eaque voluptatem reprehenderit nostrum ex veritatis accusamus? Ipsa, vitae. Placeat laboriosam reprehenderit odio beatae? Obcaecati eveniet adipisci assumenda architecto in cumque quam, deserunt consequuntur aut recusandae commodi illum harum. Consequuntur, dolorem voluptas recusandae ipsa eum sapiente quasi vitae eos nam aliquid corrupti porro perferendis illo officiis ipsam consectetur officia qui inventore commodi quos minima ducimus? Earum, maxime nemo rerum quidem ea iste corporis, beatae dolores voluptatum aut harum doloribus voluptate eveniet?</p>
+    </div>
+  </div>
+  <div class="px-4 py-24">
+    <div class="w-full md:w-4/5 mx-auto">
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">integrantes</h2>
+      <div class="flex flex-col sm:flex-row sm:flex-wrap items-center sm:justify-center mb-10">
+        {{ range where .Pages "Section" "integrantes" }}
+          <div class="mb-8 sm:mr-4">
+            <img src="{{ .Params.logo }}" alt="{{ .Title }}" class="w-56 md:w-32">
+          </div>
+        {{ end }}
+      </div>
+      <div class="text-center">
+        <a href="/integrantes" class="text-lg md:text-xl uppercase border-2 border-black px-4 py-1 hover:bg-black hover:text-white">Explorar todos</a>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="px-4 bg-cover bg-no-repeat bg-center h-screen flex flex-col" style="background-image: url(/images/bg.png)">
     <div class="w-full md:w-4/5 m-auto">
       <h1 class="uppercase leading-tight text-4xl md:text-6xl mb-10">
         <span class="block">contrataciones</span>
@@ -11,8 +56,8 @@
         <a href="/especiales" class="text-lg md:text-xl uppercase border-2 border-black px-4 py-2 hover:bg-black hover:text-white">Especiales</a>
       </div>
     </div>
-  </div>
-  <div class="px-4 py-24">
+  </div> -->
+  <!-- <div class="px-4 py-24">
     <div class="w-full md:w-4/5 mx-auto">
       {{ $size := len (where .Site.RegularPages "Section" "especiales") }}
       <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Especiales</h2>
@@ -22,26 +67,11 @@
         </div>
       {{ end }}
     </div>
-  </div>
-  <div class="px-4 py-24 bg-black">
+  </div> -->
+  <!-- <div class="px-4 py-24 bg-black">
     <div class="w-full md:w-4/5 mx-auto bg-black text-alabaster">
       <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Sobre el proyecto</h2>
       <p class="font-medium italic text-lg md:text-xl lg:max-w-4xl">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi eaque voluptatem reprehenderit nostrum ex veritatis accusamus? Ipsa, vitae. Placeat laboriosam reprehenderit odio beatae? Obcaecati eveniet adipisci assumenda architecto in cumque quam, deserunt consequuntur aut recusandae commodi illum harum. Consequuntur, dolorem voluptas recusandae ipsa eum sapiente quasi vitae eos nam aliquid corrupti porro perferendis illo officiis ipsam consectetur officia qui inventore commodi quos minima ducimus? Earum, maxime nemo rerum quidem ea iste corporis, beatae dolores voluptatum aut harum doloribus voluptate eveniet?</p>
     </div>
-  </div>
-  <div class="px-4 py-24">
-    <div class="w-full md:w-4/5 mx-auto">
-      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">red de medios</h2>
-      <div class="flex flex-col sm:flex-row sm:flex-wrap items-center sm:justify-center mb-10">
-        {{ range where .Pages "Section" "red-de-medios" }}
-          <div class="mb-8 sm:mr-4">
-            <img src="{{ .Params.logo }}" alt="{{ .Title }}" class="w-56 md:w-32">
-          </div>
-        {{ end }}
-      </div>
-      <div class="text-center">
-        <a href="/red-de-medios" class="text-lg md:text-xl uppercase border-2 border-black px-4 py-2 hover:bg-black hover:text-white">Explorar todos</a>
-      </div>
-    </div>
-  </div>
+  </div> -->
 {{ end }}
