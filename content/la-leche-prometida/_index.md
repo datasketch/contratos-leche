@@ -6,11 +6,13 @@ sites:
     website: http://especiales.datasketch.co/la-via-lactea
     bg: images/bg-datasketch.png
     description: "La Vía Láctea recopila toda la información de producción de leche en Colombia, desde la cantidad de ganado productor existente en el país, pasando por lo que ganan los productores por litro, hasta las exportaciones e importaciones de la misma. Además hace una indagación de las empresas que más contratan con el Estado colombiano en temas de leche y aquellas que han contratado para el Programa de Alimentación Escolar del país, especialmente rastrea las redes de poder de los principales miembros de las mismas."
+    align: right
   - name: El Faro
     country: El Salvador
     website: https://elfaro.net/es/201908/el_salvador/23575/El-Vaso-de-Leche-medio-vac%C3%ADo-de-los-gobiernos-del-FMLN.htm
     bg: images/bg-elfaro.png
     description: "En marzo de 2011, el primer gobierno de izquierda en El Salvador creó el programa Vaso de Leche para nutrir a los niños de las escuelas públicas. Pero ese programa nunca llegó a los niños más pobres, como aseguró en los últimos ocho años la propaganda gubernamental. 2,000 escuelas, las más pobres, recibieron solo leche en polvo, de menor calidad nutricional, con el agravante de que 501 de esos centros educativos ni siquiera tiene agua potable. Según los expertos, además, en las escuelas que sí fueron incluidas en el programa la ración de leche entregada a los estudiantes no alcanza para reducir la desnutrición. Exfuncionarios de los últimos dos gobiernos, en los que abundan las investigaciones por millonarios desvíos de fondos públicos, aseguran que el programa no pudo llegar más allá de lo esperado por “falta de presupuesto”."
+    align: right
   - name: La Diaria
     country: Uruguay
     website: https://ladiaria.com.uy/articulo/2019/8/los-debes-de-la-ley-de-produccion-familiar-agropecuaria-y-su-nulo-impacto-en-el-sector-lacteo/
@@ -31,6 +33,7 @@ sites:
     website: https://ojo-publico.com/1331/familia-lechera-los-millonarios-contratos-del-grupo-niisa-con-el-vaso-de-leche
     bg: images/bg-ojopublico.png
     description: "Esta investigación revela los millonarios contratos de la principal proveedora del programa de Vaso de Leche en Perú: la empresa NIISA y empresas relacionadas. El análisis de cientos de contratos registrados durante los últimos cinco años pone en evidencia la existencia de un grupo comercial vinculado a NIISA que ha concentrado durante los últimos años compras públicas por más de US$70 millones en el Perú. Ojo-Publico.com identificó, tras analizar cientos de contrataciones del Estado peruano, recorrer sedes comerciales y acceder a documentos reservados, una serie de irregularidades, vínculos comerciales hasta ahora desconocidos y alertas de corrupción en los contratos adjudicados a la principal proveedora de este programa social dirigido a los más pobres del Perú. Los representantes de la compañía fueron investigados por la Fiscalía."
+    align: right
   - name: PODER
     country: México
     website: https://www.rindecuentas.org/reportajes/2019/08/21/las-compras-de-leche-del-gobierno-mexicano-favorecen-a-multinacionales/
