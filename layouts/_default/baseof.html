@@ -14,12 +14,12 @@
     <title>{{ .Site.Title }}</title>
   {{ end }}
 </head>
-<body class="font-barlow font-extrabold">
+<body class="font-barlow font-extrabold antialiased">
   <div class="min-h-screen flex flex-col">
     <header class="sticky top-0 px-4 py-4 bg-white shadow z-10">
-      <nav class="flex items-center uppercase font-extrabold md:text-lg tracking-wide">
-        <a href="{{ .Site.BaseURL }}" class="mr-4 md:mr-8">Inicio</a>
-        <a href="{{ .Site.BaseURL }}#sobre-la-red" class="mr-4 md:mr-8">Sobre la red</a>
+      <nav class="flex items-center uppercase font-extrabold md:text-lg tracking-wide justify-between md:justify-start text-gray-900">
+        <a href="{{ .Site.BaseURL }}" class="md:mr-8">Inicio</a>
+        <a href="{{ .Site.BaseURL }}#sobre-la-red" class="md:mr-8">Sobre la red</a>
         <a href="/integrantes">Integrantes</a>
       </nav>
     </header>
