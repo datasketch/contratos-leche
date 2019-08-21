@@ -6,4 +6,4 @@ logo: "images/la_nacion.png"
 website: "https://www.lanacion.com.ar/"
 ---
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reprehenderit est animi laudantium sunt amet nihil, dolores rerum possimus quasi fuga aliquid nostrum nobis voluptates temporibus aliquam odio quae! Itaque repellat fuga est, nobis temporibus sunt pariatur ad neque voluptas a aliquam dolorum laudantium vero voluptate aperiam tenetur earum similique ipsam.
+La Nación fue fundado en 1870 por el ex presidente Bartolomé Mitre. Es el diario nacional más prestigioso de la Argentina, conocido por su periodismo de calidad y sus investigaciones periodísticas. Su marca se ha expandido y hoy tiene el sitio web con las versiones móviles y de redes sociales; el canal de televisión y varias revistas. Su equipo de periodismo de datos (LA NACION Data) ha sido premiado en numerosas ocasiones por sus contenidos, utilizando bases de datos y visualizaciones para contar historias.
