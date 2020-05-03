@@ -1,6 +1,6 @@
 ---
 title: "Las compras de la pandemia: opacidad y sin competencia"
-description: "Contrataciones estatales de productos lácteos en América Latina: concentración, irregularidades y programas que no llegan a los sectores vulnerables"
+description: "Siete países de América Latina abrieron las puertas a millonarias contrataciones públicas, en la mayoría de los casos, poco transparentes y en procesos sin competencia. Una serie de reportajes de la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Palta)."
 images:
   - images/leche/milk.webp
 sites:
