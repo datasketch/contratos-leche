@@ -1,9 +1,12 @@
 <div class="block relative h-64">
-  <img src="{{ .bg | absURL }}" alt="" class="top-0 absolute w-full h-full object-cover lg:object-center object-{{ .align }}">
+  <img src="{{ .bg | absURL }}" alt="" class="top-0 absolute w-full h-full object-cover object-{{ .align }}">
   <div class="absolute bottom-0 left-0 bg-black text-green-white block uppercase leading-none py-4 pl-8 w-full md:w-56">
     <h3 class="text-3xl tracking-wider">{{ .country }}</h3>
     <p class="text-lg md:text-xl italic font-medium">{{ .name }}</p>
   </div>
 </div>
-<p class="font-light lg:max-w-4xl my-6 text-xl">{{ .description }}</p>
+{{ if .title }}
+  <h2 class="text-2xl mt-4">{{ .title }}</h2>
+{{ end }}
+<p class="font-light lg:max-w-4xl mt-4 mb-6 text-xl">{{ .description }}</p>
 <a href="{{ .website }}" class="uppercase border-2 border-black px-4 py-1 tracking-wider hover:bg-black hover:text-white mr-4 inline-block" rel="noopener noreferrer" target="_blank">leer historias</a>

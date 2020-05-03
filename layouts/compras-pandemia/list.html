@@ -1,0 +1,36 @@
+{{ define "main" }}
+  <div class="px-4 bg-cover bg-no-repeat bg-center py-16" style="background-image: url(/images/leche/milk.webp)">
+    <div class="w-full md:w-4/5 m-auto">
+      <h3 class="uppercase text-4xl md:text-6xl tracking-wider mb-4 px-4">
+        <span class="block">Las compras de</span>
+        <span class="inline-block bg-black text-green-white px-4">la pandemia</span>
+      </h3>
+      <h3 class="mb-2 uppercase pl-4 text-2xl md:text-4xl">Opacidad y sin competencia</h3>
+      <div class="max-w-md pl-4 mb-6">
+        <p class="italic font-light text-lg">Siete países de América Latina abrieron las puertas a millonarias contrataciones públicas, en la mayoría de los casos, poco transparentes y en procesos sin competencia. Una serie de reportajes de la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Palta).</p>
+      </div>
+      <div class="pl-4">
+        <a href="/post/las-compras-de-la-pandemia" class="uppercase border-2 border-black px-4 py-1 tracking-wider hover:bg-black hover:text-white mr-4 inline-block">leer artículo</a>
+        <a href="https://twitter.com/intent/tweet?text=Contrataciones estatales de productos lácteos en América Latina: concentración, irregularidades y programas que no llegan a los sectores vulnerables&url=https://www.redpalta.org/la-leche-prometida/" target="_blank" class="mr-2"><i class="fa fa-twitter"></i></a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fredpalta.org%2Fla-leche-prometida"><i class="fa fa-facebook-f" target="_blank"></i></a>
+      </div>
+    </div>
+  </div>
+  <div class="px-4 py-12 md:py-24 bg-alabaster">
+    <div class="w-full md:w-4/5 mx-auto">
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Especiales</h2>
+      {{ range .Params.sites }}
+        <div class="mb-16">
+          {{ partial "card.html" . }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+  <div class="px-4 py-24 bg-black">
+    <div class="w-full md:w-4/5 mx-auto bg-black text-alabaster">
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Sobre el proyecto</h2>
+      <p class="font-medium italic text-lg md:text-xl lg:max-w-4xl mb-4">Este reportaje forma parte de una investigación regional, liderada por la red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Red PALTA), que integran La Diaria de Uruguay, OjoPúblico de Perú, Datasketch de Colombia, La Nación de Argentina, PODER de México y OjoConMiPisto de Guatemala y El Faro de El Salvador.</p>
+      <!-- <p class="font-medium italic text-lg md:text-xl lg:max-w-4xl">Esta investigación fue posible gracias a Hivos y Open Contracting Partnership</p> -->
+    </div>
+  </div>
+{{ end }}

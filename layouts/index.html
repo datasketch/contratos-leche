@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <div class="px-4 bg-cover bg-no-repeat bg-center py-32" style="background-image: url(/images/bg.png)">
+  <div class="px-4 bg-cover bg-no-repeat bg-center py-32" style="background-image: url(/images/bg.webp)">
     <div class="mx-auto w-full md:w-4/5">
       <h2 class="uppercase text-5xl text-8xl tracking-wider mb-4 text-white bg-black inline-block px-4">Red PALTA</h2>
       <p class="uppercase text-xl md:text-3xl tracking-wider">
@@ -9,8 +9,24 @@
       </p>
     </div>
   </div>
+  <!-- Las compras de la pandemia -->
   <div class="flex">
-    <div class="bg-cover bg-no-repeat bg-center hidden md:block w-1/2" style="background-image: url(/images/milk.png)"></div>
+    <div class="bg-cover bg-no-repeat bg-center hidden md:block w-1/2" style="background-image: url(/images/leche/milk.webp)"></div>
+    <div class="py-24 px-4 md:px-10 w-full md:w-1/2">
+      <div class="max-w-sm mx-auto">
+        <p class="italic uppercase font-light">investigación</p>
+        <h3 class="uppercase leading-tight text-3xl md:text-5xl mb-6">
+          <span class="block">las compras de</span>
+          <span class="inline-block bg-black text-green-white px-4">la pandemia</span>
+        </h3>
+        <p class="italic font-light text-lg mb-10">Siete países de América Latina abrieron las puertas a millonarias contrataciones públicas, en la mayoría de los casos, poco transparentes y en procesos sin competencia. Una serie de reportajes de la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Palta).</p>
+        <a href="/compras-pandemia" class="uppercase border-2 border-black px-4 py-1 tracking-wider hover:bg-black hover:text-white mr-4 inline-block">ver artículos</a>
+      </div>
+    </div>
+  </div>
+  <!-- Leche prometida -->
+  <div class="flex">
+    <div class="bg-cover bg-no-repeat bg-center hidden md:block w-1/2" style="background-image: url(/images/leche/milk.webp)"></div>
     <div class="py-24 px-4 md:px-10 w-full md:w-1/2">
       <div class="max-w-sm mx-auto">
         <p class="italic uppercase font-light">investigación</p>
@@ -33,9 +49,9 @@
     <div class="w-full md:w-4/5 mx-auto">
       <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">integrantes</h2>
       <div class="flex flex-col sm:flex-row sm:flex-wrap items-center sm:justify-center mb-10">
-        {{ range where .Pages "Section" "integrantes" }}
+        {{ range where .Site.RegularPages "Section" "integrantes" }}
           <div class="mb-8 sm:mr-4">
-            <img src="{{ .Params.logo }}" alt="{{ .Title }}" class="w-56 md:w-32">
+            <img src="{{ .Params.logo | absURL }}" alt="{{ .Title }}" class="w-56 md:w-32">
           </div>
         {{ end }}
       </div>
