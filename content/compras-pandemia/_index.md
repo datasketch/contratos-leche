@@ -1,6 +1,6 @@
 ---
 title: "Las compras de la pandemia: opacidad y sin competencia"
-description: "Siete países de América Latina abrieron las puertas a millonarias contrataciones públicas, en la mayoría de los casos, poco transparentes y en procesos sin competencia. Una serie de reportajes de la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Palta)."
+description: "Contratos sin competencia con riesgo de corrupción, falta de transparencia, sobrecostos en las compras públicas y la flexibilización de los estándares de calidad en las importaciones son los principales hallazgos del análisis de cerca de 100 normas legales como parte de una investigación regional realizada por la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción, conformada por OjoPúblico de Perú, la diaria de Uruguay, El Faro de El Salvador, Datasketch de Colombia, La Nación de Argentina, PODER de México y Ojoconmipisto de Guatemala."
 images:
   - images/leche/milk.webp
 sites:
