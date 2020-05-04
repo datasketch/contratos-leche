@@ -2,12 +2,12 @@
 title: "Las compras de la pandemia: opacidad y sin competencia"
 description: "Contratos sin competencia con riesgo de corrupción, falta de transparencia, sobrecostos en las compras públicas y la flexibilización de los estándares de calidad en las importaciones son los principales hallazgos del análisis de cerca de 100 normas legales como parte de una investigación regional realizada por la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción, conformada por OjoPúblico de Perú, la diaria de Uruguay, El Faro de El Salvador, Datasketch de Colombia, La Nación de Argentina, PODER de México y Ojoconmipisto de Guatemala."
 images:
-  - images/leche/milk.webp
+  - images/pandemia/pandemia-banner.jpg
 sites:
   - name: Datasketch
     country: Colombia
     website: http://especiales.datasketch.co/la-via-lactea
-    bg: images/pandemia/pandemia-datasketch.co
+    bg: images/pandemia/pandemia-datasketch.jpg
     title: Colombia abrió las puertas a la adjudicación sin concurso y a la modificación de contratos
     description: "El gobierno declaró el Estado de Emergencia el 17 de marzo de 2020 y autorizó el procedimiento de contratación directa para las compras de bienes y servicios de emergencia de COVID-19. Al mismo tiempo ha autorizado la posibilidad de realizar adendas y modificar los contratos."
     align: right
@@ -26,7 +26,7 @@ sites:
   - name: Ojoconmipisto
     country: Guatemala
     website: http://www.ojoconmipisto.com/open-contracting/lecheprometida/
-    bg: images/pandemia/pandemia-ojoconmipisto.jpg
+    bg: images/pandemia/pandemia-ojo-con-mi-pisto.jpg
     title: Municipalidades pagan hasta cuatro veces más por insumos contra la pandemia
     description: "Desde que se declaró la emergencia en este país, las autoridades locales han priorizado sus compras en insumos médicos y  productos de la canasta básica de alimentos. Sin embargo, en algunos productos como las mascarillas han pagado muy por encima de su precio en situaciones normales. La Contraloría General de Cuentas audita a seis alcaldías por los altos precios a los que se adquirieron."
     align: top
