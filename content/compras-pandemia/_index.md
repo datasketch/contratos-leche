@@ -6,7 +6,7 @@ images:
 sites:
   - name: Datasketch
     country: Colombia
-    website: https://www.datasketch.news/colombia-abrio-las-puertas-a-la-adjudicacion-sin-concurso-y-a-la-modificacion-de-contratos
+    website: https://www.datasketch.news/p/colombia-abrio-las-puertas-a-la-adjudicacion-sin-concurso-y-a-la-modificacion-de-contratos
     bg: images/pandemia/pandemia-datasketch.jpg
     title: Colombia abrió las puertas a la adjudicación sin concurso y a la modificación de contratos
     description: "El gobierno declaró el Estado de Emergencia el 17 de marzo de 2020 y autorizó el procedimiento de contratación directa para las compras de bienes y servicios de emergencia de COVID-19. Al mismo tiempo ha autorizado la posibilidad de realizar adendas y modificar los contratos."
