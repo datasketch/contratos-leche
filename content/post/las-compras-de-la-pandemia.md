@@ -12,6 +12,8 @@ Sin embargo, como respuesta al Covid-19, diversos países de Latinoamérica han 
 
 En esta primera entrega, los reportajes de la red periodística transfronteriza analizan cerca de 100 normas legales emitidas en el marco de la emergencia causadas por el Covid-19. Estas resoluciones estatales abren la puerta a las contrataciones directas y sus respectivos riesgos, disminuyen los estándares de transparencia y, en algunos casos, permiten compras con sobrecostos o la entrada en el mercado nacional de dispositivos médicos “precarios”. 
 
+<iframe src="https://www.redpalta.org/viz/2020-05-04-covid-palta-medidas.html" height="400" frameBorder="0" ></iframe>
+
 En Perú, OjoPúblico determinó que el Estado peruano ha dispuesto 138 millones de dólares para adquirir bienes y servicios en los sectores de salud y educación, a través de la modalidad de contratación directa. Estas normas además amplían el plazo para regularizar estos procesos de 10 a 30 días hábiles. En este marco, el Gobierno además deberá efectuar aquellas compras necesarias para atender a los desplazados al interior del país.
 
 En México, el gobierno de Andrés Manuel López Obrador ha recurrido a las adjudicaciones directas incluso desde antes de la declaración de emergencia sanitaria el 30 de marzo, según revela la investigación de PODER. Este reportaje determinó que, entre el 17 y 26 de marzo, las unidades compradoras adjudicaron 27 contratos vinculados a la atención del Covid-19 de forma directa, por un monto superior a los 338 mil dólares.
