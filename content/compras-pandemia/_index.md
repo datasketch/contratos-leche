@@ -7,7 +7,7 @@ sites:
   - name: Datasketch
     country: Colombia
     website: http://especiales.datasketch.co/la-via-lactea
-    bg: images/pandemia/pandemia-datasketch.co
+    bg: images/pandemia/pandemia-datasketch.jpg
     title: Colombia abrió las puertas a la adjudicación sin concurso y a la modificación de contratos
     description: "El gobierno declaró el Estado de Emergencia el 17 de marzo de 2020 y autorizó el procedimiento de contratación directa para las compras de bienes y servicios de emergencia de COVID-19. Al mismo tiempo ha autorizado la posibilidad de realizar adendas y modificar los contratos."
     align: right
@@ -26,7 +26,7 @@ sites:
   - name: Ojoconmipisto
     country: Guatemala
     website: http://www.ojoconmipisto.com/open-contracting/lecheprometida/
-    bg: images/pandemia/pandemia-ojoconmipisto.jpg
+    bg: images/pandemia/pandemia-ojo-con-mi-pisto.jpg
     title: Municipalidades pagan hasta cuatro veces más por insumos contra la pandemia
     description: "Desde que se declaró la emergencia en este país, las autoridades locales han priorizado sus compras en insumos médicos y  productos de la canasta básica de alimentos. Sin embargo, en algunos productos como las mascarillas han pagado muy por encima de su precio en situaciones normales. La Contraloría General de Cuentas audita a seis alcaldías por los altos precios a los que se adquirieron."
     align: top
