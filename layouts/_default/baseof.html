@@ -8,7 +8,9 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href='{{ "css/tailwind.min.css" | absURL }}'>
   <link rel="stylesheet" href='{{ "css/base.css" | absURL }}'>
-  {{ template "_internal/google_analytics_async.html" . }}
+  {{ if .Site.GoogleAnalytics }}
+    {{ template "_internal/google_analytics_async.html" . }}
+  {{ end }}
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
   {{ if .Title }}

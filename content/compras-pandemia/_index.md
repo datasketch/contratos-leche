@@ -44,6 +44,12 @@ sites:
     title: Gobierno adjudicó contratos sin concurso antes de la declaratoria de emergencia por COVID-19 
     description: "La emergencia sanitaria declarada por la pandemia abrió las puertas a la opacidad en las contrataciones públicas para hacer frente al coronavirus. El resultado: se realizaron adjudicaciones directas incluso antes de la emergencia y se suspendieron los plazos para entregar las solicitudes de acceso a la información."
     align: center
+  - name: El Faro
+    country: El Salvador
+    website: https://elfaro.net/es/202005/el_salvador/24369/Gobierno-incumple-compromiso-de-reportar-a-la-Asamblea-los-gastos-de-emergencia.htm
+    bg: images/pandemia/pandemia-el-faro.jpg
+    title: Gobierno incumple compromiso de reportar a la Asamblea los gastos de emergencia
+    description: "Solo cuatro ministerios han entregado hasta el momento a la Asamblea algún informe de sus gastos de emergencia por la COVID-19. El decreto 606 obliga a que todas las dependencias del Ejecutivo envíen al Legislativo “un informe detallado y completo de cada liquidación” en plazos de 30 días. Ese mandato no se cumple. Además, esos informes dicen que el Gobierno ha invertido en dos meses al menos 179 millones de dólares en bienes y servicios relacionados con la pandemia, pero solo explican con algún detalle el destino de un 20 % de esa cantidad."
 ---
 
 

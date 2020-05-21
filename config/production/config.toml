@@ -1,0 +1,4 @@
+baseURL = "https://redpalta.org/"
+languageCode = "es-es"
+title = "Red PALTA"
+googleAnalytics = "UA-146125153-1"
