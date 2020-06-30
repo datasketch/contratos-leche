@@ -29,6 +29,11 @@
   letter-spacing: 0.05em;
 }
 
+figure img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media screen and (min-width: 768px) {
   .text-7xl {
     font-size: 5rem;
