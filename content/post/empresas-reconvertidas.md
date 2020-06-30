@@ -48,3 +48,10 @@ Esto deja un manto de duda sobre la idoneidad de Turnkey para proveer material s
 
 Algo similar ocurrió con la comercializadora mexicana Cruhoz, fundada en 2015, que tiene como objeto social lo relacionado con la construcción, compra, venta y distribución de productos para la construcción, según su acta constitutiva. Sin embargo, vendió 10.825 mascarillas quirúrgicas para la COVID19 a 8,36 pesos cada una (0,34 centavos de dólar), es decir, un monto total de 907,76 dólares. La compra a la firma creada en Oaxaca, en México, y propiedad de Mario Enrique Ortega Toward y Carlos Enrique Zacarías Ramírez, fue realizada por Telecomunicaciones de México.
 
+En Guatemala, las empresas no han tenido necesidad de cambiar sus razones sociales. La capital contrató cuatro veces a Discogua que desde 2004 vende materiales de construcción, electricidad, equipos de protección industrial, entre otros, y ahora distribuye insumos para desinfectar las calles e instalaciones municipales. La alcaldía no le exigió el requisito sanitario.
+
+La municipalidad de San José, Escuinta, que dista 86 kilómetros de la capital, compró mascarillas de prolipropileno, mascarillas N95, termómetros infrarrojo frontal, lentes protectores y guantes a Tranmaq. La constructora obtuvo dos contratos para balastar caminos a principio de año y tampoco se le exigió registro que garantizara la calidad.
+
+Tranmaq entregó 1 mil 500 mascarillas N95 que vendió a US$2.57 cada una y otras 22 mil de tipo polipropileno a US$0.73, según el acta publicada en el portal de compras. La municipalidad no se preocupó por los requisitos de calidad, como tampoco otros nueve gobiernos locales que priorizaron precio y tiempo de entrega. Garantizar los estándares del producto pasaron a un segundo plano.
+
+
