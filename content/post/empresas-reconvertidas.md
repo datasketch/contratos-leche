@@ -3,7 +3,7 @@ title: 'Entre la adaptación y la sospecha: empresas reconvertidas con la pandem
 description: ""
 ---
 
-Por: La diaria - Natalia Uval
+Por: La diaria - Natalia Uval, Juan Aldecoa y Stephanie Demirdjian
 
 Estaba todo listo para comenzar a preparar los pedidos de la temporada de invierno. Los materiales, los modelos de zapatos, la mano de obra. Pero el 13 de marzo, el gobierno uruguayo decretó la emergencia sanitaria por el coronavirus y se paralizaron las ventas. La empresa Dersolan S.A. tuvo que buscar entonces un plan b para adaptarse a la nueva realidad y sobrevivir.
 

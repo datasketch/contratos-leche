@@ -14,7 +14,6 @@ sites:
     country: Uruguay
     website: https://ladiaria.com.uy/articulo/2020/6/cuidarse-de-la-covid-19-sale-caro-el-estado-compra-tapabocas-al-triple-de-su-costo-de-importacion/
     bg: images/pandemia/pandemia-la-diaria-2.jpg
-    align: top
     title: "Cuidarse del COVID-19 sale caro en Uruguay: compraron tapabocas al triple de su costo de importación"
     description: "Durante la pandemia los organismos públicos de este país adquirieron mascarillas descartables a un precio 18 veces mayor que en 2019. En esta investigación de la diaria liderada por la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción (PALTA), se constata que Uruguay paga por las mascarillas descartables un precio cuatro veces mayor a su costo de importación."
   # - name: La Nación
