@@ -6,6 +6,44 @@ images:
 sites:
   - name: Datasketch
     country: Colombia
+    website: https://www.datasketch.news/p/mascarillas-con-sobreprecios-y-nexos-en-panama-en-los-contratos-por-covid-19
+    bg: images/pandemia/pandemia-datasketch-2.jpg
+    title: "Mascarillas con sobreprecios y nexos en Panamá en los contratos por COVID-19"
+    description: "Con más de $132 millones de dólares contratados, las empresas que se están llevando la mayor tajada en suministros para enfrentar la emergencia sanitaria por COVID-19 en Colombia tienen conexiones en Panamá y están vendiendo mascarillas N95 por hasta el doble del precio."
+  - name: La Diaria
+    country: Uruguay
+    website: https://ladiaria.com.uy/articulo/2020/6/cuidarse-de-la-covid-19-sale-caro-el-estado-compra-tapabocas-al-triple-de-su-costo-de-importacion/
+    bg: images/pandemia/pandemia-la-diaria-2.jpg
+    align: top
+    title: "Cuidarse del COVID-19 sale caro en Uruguay: compraron tapabocas al triple de su costo de importación"
+    description: "Durante la pandemia los organismos públicos de este país adquirieron mascarillas descartables a un precio 18 veces mayor que en 2019. En esta investigación de la diaria liderada por la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción (PALTA), se constata que Uruguay paga por las mascarillas descartables un precio cuatro veces mayor a su costo de importación."
+  # - name: La Nación
+  - name: Ojoconmipisto
+    country: Guatemala
+    website: https://www.ojoconmipisto.com/open-contracting/registro-sanitario-no-es-requisito-para-las-compras-de-covid19/
+    bg: images/pandemia/pandemia-ojo-con-mi-pisto-2.jpg
+    title: El registro sanitario no es un requisito para las compras municipales de COVID-19
+    description: "Las alcaldías adquieren insumos de protección y mascarillas a proveedores que suelen venderles materiales de construcción sin exigirles un aval sanitario. El Ministerio de Salud advierte que deben pedirlo para garantizar la calidad del producto."
+  # - name: Ojo Público
+  #   country: Perú
+  #   website:
+  #   bg: images/pandemia/pandemia-ojo-publico-2.jpg
+  #   title: Las mascarillas N95 compradas con sobreprecio en América Latina
+  #   description: "Cerca de 70 mil mascarillas N95, que fueron adquiridas por Argentina, Colombia, México, Perú y Uruguay costaron hasta dos veces más que el valor unitario promedio de estos respiradores en la región. El sobreprecio de trece de estas adquisiciones representó un gasto adicional de más de US$250 mil por parte de las autoridades de estos países."
+  - name: PODER
+    country: México
+    website: https://www.rindecuentas.org/reportajes/2020/06/30/mexico-compro-insumos-para-la-covid-19-con-sobreprecios-y-a-empresa-sin-experiencia/
+    bg: images/pandemia/pandemia-poder-2.jpg
+    title: México compró con sobreprecio y a empresa sin experiencia insumos contra la COVID-19
+    description: "Sobreprecios, contratación de empresas nuevas y firmas no relacionadas al sector salud, manchan el proceso de contratación de algunos de los insumos comprados por el gobierno federal de México y el de la Ciudad de México. Cubrebocas, mascarillas N95 y KN95 y ventiladores registran estas irregularidades."
+  - name: El Faro
+    country: El Salvador
+    website: https://elfaro.net/es/202006/el_salvador/24597/Ministerio-de-Salud-compr%C3%B3-$3-millones-en-mascarillas-a-un-vendedor-de-porcelana-y-cer%C3%A1mica.htm
+    bg: images/pandemia/pandemia-el-faro-2.jpg
+    title: "El Salvador: $3 millones en mascarillas compradas a una empresa que vende porcelana y cerámica"
+    description: "En El Salvador, el Gobierno pagó millones de dólares para adquirir mascarillas KN95 y mascarillas quirúrgicas con sospecha de sobreprecio a proveedores sin experiencia en la venta de insumos médicos. Entre estos destacan una empresa de cerámicas radicada en Miami y una empresa dedicada a la informática fundada por un diputado de la República aliado del gobierno Bukele."
+  - name: Datasketch
+    country: Colombia
     website: https://www.datasketch.news/p/colombia-abrio-las-puertas-a-la-adjudicacion-sin-concurso-y-a-la-modificacion-de-contratos
     bg: images/pandemia/pandemia-datasketch.jpg
     title: Colombia abrió las puertas a la adjudicación sin concurso y a la modificación de contratos
@@ -16,7 +54,7 @@ sites:
     website: https://ladiaria.com.uy/articulo/2020/5/gobierno-flexibiliza-registros-y-tramites-para-la-importacion-de-insumos-y-equipos-medicos/
     bg: images/pandemia/pandemia-la-diaria.jpg
     title: Gobierno flexibiliza registros y trámites para la importación de insumos y equipos médicos
-    description: "Comprar sin licitación y de manera directa ha sido la respuesta del gobierno de este país para enfrentar la pandemia de la Covid-19. La ley vigente les permite contratar sin concurso en situaciones de emergencia, pero la duración de los trámites de ingreso al país y el registro de productos suponía un escollo que ahora han resuelto aprobando normas desde el Poder Ejecutivo."
+    description: "Comprar sin licitación y de manera directa ha sido la respuesta del gobierno de este país para enfrentar la pandemia de la COVID-19. La ley vigente les permite contratar sin concurso en situaciones de emergencia, pero la duración de los trámites de ingreso al país y el registro de productos suponía un escollo que ahora han resuelto aprobando normas desde el Poder Ejecutivo."
   - name: La Nacion
     country: Argentina
     website: https://www.lanacion.com.ar/politica/compras-coronavirus-un-sistema-peligroso-deficiente-nid2360123
@@ -34,7 +72,7 @@ sites:
     country: Perú
     website: https://ojo-publico.com/1805/covid-19-peru-destina-millones-para-compras-sin-competencia
     bg: images/pandemia/pandemia-ojo-publico.jpg
-    title: Perú destina más de 138 millones de dólares para compras sin competencia para Covid-19
+    title: Perú destina más de 138 millones de dólares para compras sin competencia para COVID-19
     description: "El Estado ha emitido un total de 27 normas legales que regulan las contrataciones públicas durante la emergencia por la pandemia. Sin embargo, la norma señala que la mayoría de estas adquisiciones podrán realizarse a través de contrataciones directas, modalidad que implica riesgos de corrupción, advierten expertos. El análisis realizado por OjoPúblico determina que hasta el momento se han realizado compras directas por US$75 millones."
     align: right
   - name: PODER
