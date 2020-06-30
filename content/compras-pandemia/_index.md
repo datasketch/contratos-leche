@@ -4,6 +4,12 @@ description: "Contratos sin competencia con riesgo de corrupción, falta de tran
 images:
   - images/pandemia/pandemia-banner.jpg
 sites:
+  - name: Ojo Público
+    country: Reportaje regional
+    website: https://ojo-publico.com/1928/coronacompras-mascarillas-con-sobreprecio-en-america-latina
+    bg: images/pandemia/pandemia-ojo-publico-2.jpg
+    title: Las mascarillas N95 compradas con sobreprecio en América Latina
+    description: "Cerca de 70 mil mascarillas N95, que fueron adquiridas por Argentina, Colombia, México, Perú y Uruguay costaron hasta dos veces más que el valor unitario promedio de estos respiradores en la región. El sobreprecio de trece de estas adquisiciones representó un gasto adicional de más de US$250 mil por parte de las autoridades de estos países."
   - name: Datasketch
     country: Colombia
     website: https://www.datasketch.news/p/mascarillas-con-sobreprecios-y-nexos-en-panama-en-los-contratos-por-covid-19
@@ -23,12 +29,6 @@ sites:
     bg: images/pandemia/pandemia-ojo-con-mi-pisto-2.jpg
     title: El registro sanitario no es un requisito para las compras municipales de COVID-19
     description: "Las alcaldías adquieren insumos de protección y mascarillas a proveedores que suelen venderles materiales de construcción sin exigirles un aval sanitario. El Ministerio de Salud advierte que deben pedirlo para garantizar la calidad del producto."
-  # - name: Ojo Público
-  #   country: Perú
-  #   website:
-  #   bg: images/pandemia/pandemia-ojo-publico-2.jpg
-  #   title: Las mascarillas N95 compradas con sobreprecio en América Latina
-  #   description: "Cerca de 70 mil mascarillas N95, que fueron adquiridas por Argentina, Colombia, México, Perú y Uruguay costaron hasta dos veces más que el valor unitario promedio de estos respiradores en la región. El sobreprecio de trece de estas adquisiciones representó un gasto adicional de más de US$250 mil por parte de las autoridades de estos países."
   - name: PODER
     country: México
     website: https://www.rindecuentas.org/reportajes/2020/06/30/mexico-compro-insumos-para-la-covid-19-con-sobreprecios-y-a-empresa-sin-experiencia/
