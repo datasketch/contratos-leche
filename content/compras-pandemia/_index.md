@@ -4,6 +4,43 @@ description: "Contratos sin competencia con riesgo de corrupción, falta de tran
 images:
   - images/pandemia/pandemia-banner.jpg
 sites:
+  # - name: Ojo Público
+  #   country: Reportaje regional
+  #   website: https://www.redpalta.org/post/pruebas-de-origen-chino/
+  #   bg: 
+  #   title: Pruebas rápidas sin certificación de China dominan el mercado de América Latina
+  #   description: "En América Latina cerca de 80 laboratorios de China han vendido, importado o recibido autorización para sus pruebas rápidas de Covid-19. Sin embargo, el 93% de estos test serológicos no cuentan con certificación sanitaria en su país de origen."
+  # - name: PODER / Dataketch
+  #   country: Reportaje regional
+  #   website: https://www.redpalta.org/post/pruebas-publicas-y-privadas/
+  #   bg: 
+  #   title: Las pruebas de COVID-19 en América Latina, la brecha entre el sistema público y el privado
+  #   description: "En América Latina cerca de 80 laboratorios de China han vendido, importado o recibido autorización para sus pruebas rápidas de Covid-19. Sin embargo, el 93% de estos test serológicos no cuentan con certificación sanitaria en su país de origen."
+  - name: La Diaria
+    country: Uruguay
+    website: "https://ladiaria.com.uy/coronavirus/articulo/2020/9/gestion-ciencia-y-estado-el-circulo-virtuoso-que-permitio-a-uruguay-combatir-el-coronavirus/"
+    bg: "images/pandemia/pandemia-la-diaria-3.jpg"
+    title: "Gestión, ciencia y Estado: el círculo virtuoso que permitió a Uruguay combatir el coronavirus"
+    description: "Uruguay no tiene un Dios aparte, aclara el ministro de Salud Pública de ese país, Daniel Salinas. Un Estado fuerte, un sistema de salud integrado, una accesibilidad amplia a pruebas diagnósticas y la fuerte contribución de la academia y la ciencia nacionales son algunos de los factores que explican los buenos resultados de Uruguay en la contención de la pandemia. Los laboratorios públicos de ese país realizan casi el 50% de las pruebas de Covid-19, y el 54% de los test aplicados fueron desarrollados por científicos nacionales."
+    align: top
+  - name: PODER
+    country: México
+    website: "https://www.rindecuentas.org/reportajes/2020/09/08/pruebas-para-covid-19-la-desigualdad-en-la-pandemia/"
+    bg: "images/pandemia/pandemia-poder-3.jpg"
+    title: "Pruebas para COVID-19: la desigualdad en la pandemia"
+    description: "Desde un inicio la estrategia de sanidad pública del gobierno federal fue la de hacer pruebas moleculares únicamente y no hacer pruebas masivas, lo cual le ha traído críticas, pues según expertos, la magnitud de la pandemia queda subrepresentada. La realidad es que para aquellas personas contagiadas con el virus Sars-CoV2, la única forma de saber que lo están es a través de las pruebas, con las moleculares que son más efectivas, o con las rápidas que son más baratas pero menos exactas. Existe una tercera opción, pero sólo para quienes se atienden en hospitales militares: las pruebas compradas por la Secretaría de la Defensa Nacional (SEDENA) que son moleculares pero de tan alta tecnología que pueden arrojar un resultado en sólo 45 minutos."
+  - name: Ojoconmipisto
+    country: Guatemala
+    website: "https://bit.ly/331Kj1S"
+    bg: "images/pandemia/pandemia-ojoconmipisto-3.png"
+    title: "Guatemala compra pruebas de antígeno coreanas, una empresa controla el mercado"
+    description: "A diferencia de otros países de Latinoamérica, como Argentina y Perú que optan por comprar pruebas rápidas de China o Estados Unidos, Guatemala se inclina por las que proveen Boditech Med Inc, SD Biosensor y Biocredit Rapigen, fabricadas en Corea del Sur. El 96 por ciento de estos insumos registrados en  Guatecompras fueron para adquirir las de SD Biosensor, una marca que según el registro del ministerio de Salud solo lo importa Labymed S.A. Las otras dos, Rapigen y Bioditech, representan el resto"
+  - name: Datasketch
+    country: Colombia
+    website: "https://www.datasketch.news/p/las-variaciones-en-costos-de-pruebas-rapidas-de-covid-19-en-colombia"
+    bg: "images/pandemia/pandemia-datasketch-3.jpg"
+    title: "Las variaciones en costos de pruebas rápidas de COVID-19 en Colombia"
+    description: "Colombia ha contratado pruebas rápidas hasta por 70 mil pesos (18 dólares). Datasketch analizó 63 contratos de entidades del Estado que adquirieron pruebas de COVID-19 (PCR o rápidas) para saber cuáles son sus proveedores locales, cuántas pruebas se han comprado y de dónde vienen."
   - name: Ojo Público
     country: Reportaje regional
     website: https://ojo-publico.com/1928/coronacompras-mascarillas-con-sobreprecio-en-america-latina
