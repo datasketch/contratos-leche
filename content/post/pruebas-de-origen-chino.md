@@ -146,5 +146,9 @@ Según su sitio web, SD Biosensor se especializa en el desarrollo de test de dia
 
 Consultados sobre estas ventas al gobierno de Guatemala, los representantes de Labymed decidieron no brindar declaraciones al respecto.
 
+Explora las empresas y países proveedores y compradores de pruebas COVID-19, visualización hecha con [Datasketch Apps](https://www.datasketch.co/)
+
+{{< app "https://datasketch.shinyapps.io/palta-map/" >}}
+
 *Este reportaje forma parte de una investigación regional, liderada por la red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Red Palta), que integran la diaria de Uruguay, OjoPúblico de Perú, Datasketch de Colombia, La Nación de Argentina, PODER de México, OjoConMiPisto de Guatemala y El Faro de El Salvador. Para leer sobre el sistema de compras y contrataciones de América Latina también puedes ingresar al sitio de la Red Palta.
 Con el apoyo de Hivos y Open Contracting.

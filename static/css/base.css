@@ -29,6 +29,10 @@
   letter-spacing: 0.05em;
 }
 
+.md-content a {
+  text-decoration: underline;
+}
+
 figure img {
   margin-left: auto;
   margin-right: auto;
