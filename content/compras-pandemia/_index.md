@@ -4,18 +4,13 @@ description: "Contratos sin competencia con riesgo de corrupción, falta de tran
 images:
   - images/pandemia/pandemia-banner.jpg
 sites:
-  # - name: Ojo Público
-  #   country: Reportaje regional
-  #   website: https://www.redpalta.org/post/pruebas-de-origen-chino/
-  #   bg: 
-  #   title: Pruebas rápidas sin certificación de China dominan el mercado de América Latina
-  #   description: "En América Latina cerca de 80 laboratorios de China han vendido, importado o recibido autorización para sus pruebas rápidas de Covid-19. Sin embargo, el 93% de estos test serológicos no cuentan con certificación sanitaria en su país de origen."
-  # - name: PODER / Dataketch
-  #   country: Reportaje regional
-  #   website: https://www.redpalta.org/post/pruebas-publicas-y-privadas/
-  #   bg: 
-  #   title: Las pruebas de COVID-19 en América Latina, la brecha entre el sistema público y el privado
-  #   description: "En América Latina cerca de 80 laboratorios de China han vendido, importado o recibido autorización para sus pruebas rápidas de Covid-19. Sin embargo, el 93% de estos test serológicos no cuentan con certificación sanitaria en su país de origen."
+  - name: Ojo Público
+    country: Reportaje regional
+    website: https://www.redpalta.org/post/pruebas-de-origen-chino/
+    bg: "images/pandemia/pandemia-ojo-publico-3.jpg"
+    title: Pruebas rápidas sin certificación de China dominan el mercado de América Latina
+    description: "En América Latina cerca de 80 laboratorios de China han vendido, importado o recibido autorización para sus pruebas rápidas de Covid-19. Sin embargo, el 93% de estos test serológicos no cuentan con certificación sanitaria en su país de origen."
+    align: top
   - name: La Diaria
     country: Uruguay
     website: "https://ladiaria.com.uy/coronavirus/articulo/2020/9/gestion-ciencia-y-estado-el-circulo-virtuoso-que-permitio-a-uruguay-combatir-el-coronavirus/"
