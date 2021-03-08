@@ -8,10 +8,6 @@ Autores: Iván Ruiz, Romina Colman, Claudia Ocaranza, Claudia Chávez
 
 Edición general: Nelly Luna
 
-Equipo colaboradores Red PALTA: Sergio Silva (El Espectador), Isaías Morales y Claudia Palma (Ojoconmipisto), Natalia Uval (La diaria), Delfina Arambillet (LA NACION DATA), Florencia Rodriguez Altube (LA NACION DATA), equipo de Datasketch.
-
-Equipo Fundación Directorio Legislativo : Felicitas Torrecilla e Iván Vallejos (Equipo de Investigación), Michelle Volpin (Equipo de Ciudadanía e Instituciones de Gobierno), Leandro Domínguez, Pablo García Baccino, Dayanni Olivo, Paula Lértora, Fernando Hansen, Julieta Cravero, Alma Klopsch, Victoria Andersen, Juan Francisco Krahl, Emilia Proaño, Laura Lapa, Daniela Gilardoni, Rocío Azas, Lucas Mercado (Equipo de Análisis Político)
-
 La compra masiva de vacunas contra la covid-19 volvió a cubrir con un manto de opacidad a América Latina. La presión de los laboratorios y la desesperación de los gobiernos por adquirir millones de dosis a contra reloj impulsaron cambios en la legislación de casi todos los países de la región. Muchos de ellos modificaron sus leyes para darle indemnidad económica y confidencialidad a las farmacéuticas que producen la vacuna.
 
 **Al menos 13 países de América Latina cambiaron sus leyes para comprar la vacuna contra la covid-19 entre el pasado septiembre y febrero**. Una investigación de la [Red Palta](https://www.redpalta.org/) en alianza con la [Fundación Directorio Legislativo](https://directoriolegislativo.org/) detectó que en este tiempo se aprobaron 23 nuevas normativas entre leyes, decretos y resoluciones que afianzaron, desde distintos ángulos, opacidad a estas adquisiciones y le dieron indemnidad económica y confidencialidad a las farmacéuticas que producen la vacuna.
@@ -97,3 +93,9 @@ Pfizer/BioNTech ha formalizado negociaciones con 11 países, mientras que el lab
 La multinacional estadounidense Johnson & Johnson, que ofrece una vacuna de una sola dosis, tiene acuerdos con Colombia y Chile. De igual manera, Covishield, la vacuna producida por el Instituto Serum de la India junto a AstraZeneca/Oxford, llegó a Argentina y República Dominicana. Moderna (Estados Unidos) y Bharat Biotech (India), por su parte, proporcionarán vacunas a un solo país, cada una.
 
 Nicaragua y Guatemala aún no han concretado negociaciones directas para la adquisición de dosis y, por el momento, dependen de los envíos de Covax o de donaciones. No obstante, el gobierno guatemalteco publicó en febrero pasado, una norma que otorga inmunidad de juicio a las farmacéuticas. Asimismo, modificó su legislación para exceptuar a la compra de vacunas de los requerimientos del sistema nacional de contrataciones, aunque, como una acción a favor de la transparencia, se admitió la publicación de los detalles de estas adquisiciones.
+
+*Este reportaje forma parte de una investigación regional, liderada por la red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Red Palta) en alianza con Fundación Directorio Legislativo. Red Palta está integrada por: La diaria de Uruguay, OjoPúblico de Perú, Datasketch de Colombia, La Nación de Argentina, PODER de México, Ojoconmipisto de Guatemala y El Faro de El Salvador.
+
+*Equipo colaboradores Red PALTA: Sergio Silva (El Espectador), Isaías Morales y Claudia Palma (Ojoconmipisto), Natalia Uval (La diaria), Delfina Arambillet (LA NACION DATA), Florencia Rodriguez Altube (LA NACION DATA), equipo de Datasketch.
+
+*Equipo Fundación Directorio Legislativo : Felicitas Torrecilla e Iván Vallejos (Equipo de Investigación), Michelle Volpin (Equipo de Ciudadanía e Instituciones de Gobierno), Leandro Domínguez, Pablo García Baccino, Dayanni Olivo, Paula Lértora, Fernando Hansen, Julieta Cravero, Alma Klopsch, Victoria Andersen, Juan Francisco Krahl, Emilia Proaño, Laura Lapa, Daniela Gilardoni, Rocío Azas, Lucas Mercado (Equipo de Análisis Político)
