@@ -10,9 +10,9 @@ Con cerca de 200 mil personas diagnosticadas con Covid-19 hasta la fecha, y más
 
 Sin embargo, como respuesta al Covid-19, diversos países de Latinoamérica han recurrido a una modalidad de compra pública que incrementa los riesgos de corrupción: la contratación directa, según revela una investigación liderada por la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción, conformada por OjoPúblico de Perú, la diaria de Uruguay, El Faro de El Salvador, Datasketch de Colombia, La Nación de Argentina, Poder de México y Ojoconmipisto de Guatemala. 
 
-En esta primera entrega, los reportajes de la red periodística transfronteriza analizan cerca de 100 normas legales emitidas en el marco de la emergencia causadas por el Covid-19. Estas resoluciones estatales abren la puerta a las contrataciones directas y sus respectivos riesgos, disminuyen los estándares de transparencia y, en algunos casos, permiten compras con sobrecostos o la entrada en el mercado nacional de dispositivos médicos “precarios”. 
+En esta primera entrega, los reportajes de la red periodística transfronteriza analizan cerca de 100 normas legales emitidas en el marco de la emergencia causadas por el Covid-19. Estas resoluciones estatales abren la puerta a las contrataciones directas y sus respectivos riesgos, disminuyen los estándares de transparencia y, en algunos casos, permiten compras con sobrecostos o la entrada en el mercado nacional de dispositivos médicos "precarios".
 
-<iframe src="https://www.redpalta.org/viz/2020-05-04-covid-palta-medidas.html" width = "100%" height="400" frameBorder="0" ></iframe>
+{{< iframe "https://www.redpalta.org/viz/2020-05-04-covid-palta-medidas.html" >}}
 
 En Perú, OjoPúblico determinó que el Estado peruano ha dispuesto 138 millones de dólares para adquirir bienes y servicios en los sectores de salud y educación, a través de la modalidad de contratación directa. Estas normas además amplían el plazo para regularizar estos procesos de 10 a 30 días hábiles. En este marco, el Gobierno además deberá efectuar aquellas compras necesarias para atender a los desplazados al interior del país.
 
@@ -22,10 +22,7 @@ En Guatemala, el medio Ojoconmipisto demostró uno de los riesgos de las contrat
 
 Los gobiernos de Argentina, Colombia y Uruguay también han recurrido a las contrataciones directas, según reportan La Nación, Datasketch y la diaria. En el último caso, el gobierno de  Luis Lacalle Pou además ha emitido una nueva normativa que flexibiliza la duración del trámite para importar dispositivos médicos y los requisitos para el registro de estos productos sanitarios en Uruguay.
 
-
-
 ## Falta de transparencia y bajos estándares
-
 
 En nombre de realizar compras rápidas para atender la crisis del Covid-19, los gobiernos de Latinoamérica además han disminuido o suspendido los estándares de transparencia de los contratos públicos. En Colombia, el informe de Datasketch señala que los datos del portal oficial de la Agencia de Contratación Pública de Colombia no pueden descargarse, y las futuras modificaciones a los contratos solo podrán conocerse una vez finalizados.
 
@@ -39,6 +36,6 @@ Además, el gobierno de López Obrador suspendió los plazos de respuesta para l
 
 Ojoconmipisto, por su parte, ha reportado una situación similar en Guatemala: el Procurador de Derechos Humanos de dicho país ha congelado los plazos de respuestas para las consultas en el marco de la Ley de Acceso a la Información Pública. Aunque la Ley de Emergencia levantó esta suspensión, el medio guatemalteco ha determinado que algunas dependencias responden parcialmente durante la pandemia por falta de personal.
 
-Finalmente, la diaria de Uruguay identificó dos riesgos vinculados a las importaciones de dispositivos médicos durante la pandemia: bajos estándares de calidad y la habilitación de empresas sospechosas. Este reporte precisa que el Gobierno uruguayo ha creado un registro provisorio, que otorga una autorización “precaria y revocable” a los insumos médicos importados. Para ingresar a este registro, ahora las empresas están autorizadas para enviar sus certificados de libre venta por correo electrónico, lo que aumenta el riesgo de adulteración.
+Finalmente, la diaria de Uruguay identificó dos riesgos vinculados a las importaciones de dispositivos médicos durante la pandemia: bajos estándares de calidad y la habilitación de empresas sospechosas. Este reporte precisa que el Gobierno uruguayo ha creado un registro provisorio, que otorga una autorización "precaria y revocable" a los insumos médicos importados. Para ingresar a este registro, ahora las empresas están autorizadas para enviar sus certificados de libre venta por correo electrónico, lo que aumenta el riesgo de adulteración.
 
 La contratación directa es un herramienta necesaria y regulada en nuestras normativas para atender las emergencias, como la ocasionada por el Covid-19. Sin embargo, la carrera contra el tiempo no puede justificar una flexibilización de los estándares de calidad para dispositivos médicos, ni políticas que cubran de opacidad a las compras públicas. De lo contrario, un nuevo brote de corrupción se sumará a las consecuencias ocasionadas por esta pandemia. 

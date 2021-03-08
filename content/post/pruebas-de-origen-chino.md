@@ -1,8 +1,7 @@
 ---
 title: "Pruebas rápidas sin certificación de China dominan mercado de América Latina"
+description: En América Latina cerca de 80 laboratorios de China han vendido sus pruebas rápidas de Covid-19 a los distintos niveles de gobierno, han recibido autorizaciones sanitarias de emergencia o han importado estos test a través de las fronteras de cinco países de esta región. Sin embargo, el 93% de estos test serológicos no cuentan con certificación sanitaria en su país de origen. Una investigación coordinada por la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Palta).
 ---
-
-*En América Latina cerca de 80 laboratorios de China han vendido sus pruebas rápidas de Covid-19 a los distintos niveles de gobierno, han recibido autorizaciones sanitarias de emergencia o han importado estos test a través de las fronteras de cinco países de esta región. Sin embargo, el 93% de estos test serológicos no cuentan con certificación sanitaria en su país de origen. Una investigación coordinada por la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Palta).*
 
 Por OjoPúblico / Ernesto Cabral
 

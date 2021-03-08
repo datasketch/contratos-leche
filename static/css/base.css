@@ -15,7 +15,7 @@
 }
 
 .md-content > * {
-  margin-bottom: 1rem;
+  margin-bottom: 1.75rem;
 }
 
 .md-content p {
@@ -23,7 +23,7 @@
 }
 
 .md-content h2 {
-  font-size: 2.25rem;
+  font-size: 1.25rem;
   text-transform: uppercase;
   font-weight: 800;
   letter-spacing: 0.05em;
@@ -44,5 +44,8 @@ figure img {
   }
   .text-8xl {
     font-size: 6rem;
+  }
+  .md-content h2 {
+    font-size: 2.25rem;
   }
 }
