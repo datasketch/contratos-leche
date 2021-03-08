@@ -99,3 +99,5 @@ Nicaragua and Guatemala have not yet entered into direct negotiations to acquire
 *Red PALTA team collaborators: Sergio Silva (El Espectador), Isaías Morales and Claudia Palma (Ojoconmipisto), Natalia Uval (La diaria), Delfina Arambillet (LA NACION DATA), Florencia Rodriguez Altube (LA NACION DATA), Datasketch team.
 
 *Fundación Directorio Legislativo Team: Felicitas Torrecilla and Iván Vallejos (Research Team), Michelle Volpin (Citizenship and Government Institutions Team), Leandro Domínguez, Pablo García Baccino, Dayanni Olivo, Paula Lértora, Fernando Hansen, Julieta Cravero, Alma Klopsch, Victoria Andersen, Juan Francisco Krahl, Emilia Proaño, Laura Lapa, Daniela Gilardoni, Rocío Azas, Lucas Mercado (Political Analysis Team).
+
+*Thanks to Open Contracting Partnership (OCP) for the English translation of this note.
