@@ -54,7 +54,7 @@ Valiéndose de normas y leyes existentes o recién creadas para marcar confidenc
 
 Algunos países, como México y Costa Rica, sí marcaron un plazo para la confidencialidad de las negociaciones y contratos para la compra de vacunas. El gobierno mexicano hizo uso de su ley de transparencia para definir el fin de la confidencialidad en cinco años y Costa Rica la marcó en un año.  
 
-Casi ningún estado de la región tampoco dio a conocer el precio que pagó por cada dosis. La excepción en este sentido es [Honduras](https://www.unicef.org/honduras/comunicados-prensa/honduras-recibir%C3%A1-vacuna-contra-covid-19-de-calidad-certificada-por-covax) que dio a conocer el precio que pagó por la vacuna que llegará a través del fondo de acceso global Covax. 
+Casi ningún estado de la región dio a conocer el precio que pagó por cada dosis. La excepción en este sentido es [Honduras](https://www.unicef.org/honduras/comunicados-prensa/honduras-recibir%C3%A1-vacuna-contra-covid-19-de-calidad-certificada-por-covax) que dio a conocer el precio que pagó por la vacuna que llegará a través del fondo de acceso global Covax. 
 
 En la misma línea, el ministro de Salud chileno comunicó públicamente que pagaron 12 dólares por cada dosis de Pfizer y 11,4 dólares por la Sinovac. Mientras que en México, el subsecretario de Prevención y Promoción de la Salud informó que el país pagó 9,95 dólares por cada dosis de la vacuna Sputnik V y 4 dólares por dosis de la vacuna de AstraZeneca.
 
@@ -74,7 +74,7 @@ En el caso de México se modificó la Ley de los Impuestos Generales de Importac
 
 Argentina también incluyó la exención de impuestos para las vacunas en su ley creada el 29 de octubre de 2020, ex profeso para la vacunación en el país. En el Artículo 6° se estableció que no se tiene que pagar derechos de importación ni ningún otro impuesto o gravamen por las vacunas contra la Covid-19.
 
-Bolivia es otro país que en su Ley de Emergencia Sanitaria exoneró el  de pago de "tributos aduaneros" la importación de insumos para la atención de la pandemia, incluidas las vacunas. La entrada de esos productos al país están amparadas bajo la modalidad de "envíos de socorro".
+Bolivia es otro país que en su Ley de Emergencia Sanitaria exoneró el  de pago de "tributos aduaneros" a la importación de insumos para la atención de la pandemia, incluidas las vacunas. La entrada de esos productos al país está amparada bajo la modalidad de "envíos de socorro".
 
 Aunque Guatemala todavía no tiene acuerdos con laboratorios, ya cuenta con un decreto para exentar del pago de impuestos todas las importaciones de vacunas para la covid-19, así como las donaciones relacionadas con la movilización y conservación de estas por dos años. 
 
