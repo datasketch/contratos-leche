@@ -2,6 +2,8 @@
 title: "Gobiernos de América Latina otorgaron beneficios legales
 y tributarios a farmacéuticas en compra de vacunas"
 description: A un año de la identificación de primeros casos en América Latina, un análisis de las medidas legales publicadas por los gobiernos determina que 13 países de América Latina cambiaron sus leyes para comprar la vacuna contra la covid-19 entre septiembre y febrero del 2021. Este es un reportaje liderado por la Red Palta.
+images:
+  - https://res.cloudinary.com/randommonkey/image/upload/v1615295547/red-palta/beneficios-a-farmaceuticas-en-compra-de-vacunas.jpg
 ---
 
 Autores: Iván Ruiz, Romina Colman, Claudia Ocaranza, Claudia Chávez

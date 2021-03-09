@@ -1,6 +1,8 @@
 ---
 title: Latin American governments gave legal and tax benefits to pharmaceutical companies in vaccine purchases
 description: One year after the first cases of coronavirus were identified in Latin America, an analysis into the legal measures published by governments finds that 13 Latin American countries changed their laws in order to purchase the Covid-19 vaccine between September 2020 and February 2021. This is a Red Palta report.
+images:
+  - https://res.cloudinary.com/randommonkey/image/upload/v1615295547/red-palta/beneficios-a-farmaceuticas-en-compra-de-vacunas.jpg
 ---
 
 Authors: Iván Ruiz, Romina Colman, Claudia Ocaranza, Claudia Chávez
