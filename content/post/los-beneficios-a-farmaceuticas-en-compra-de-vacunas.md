@@ -36,7 +36,7 @@ El cerrojo de información se replicó también en México. Cuatro de los docume
 
 **Con distintos matices, sin embargo, todos los laboratorios exigieron que los países modifiquen sus leyes para darle indemnidad, un requisito que muchos países tuvieron que aceptar.**
 
-Felicitas Torrecilla, Coordinadora de Investigación de Fundación Directorio Legislativo, explicó: "Pudimos ver que 12 gobiernos tuvieron que hacer importantes concesiones para firmar contratos, concesiones que hoy limitan - cuando no impiden - el acceso público a información crítica sobre los términos acordados y los precios que se han pagado por las vacunas en cada país. Estas cuestiones son cruciales para entender no sólo cómo se ha conducido el proceso para acceder a las vacunas, sino también los desafíos globales vinculados a la equidad sanitaria en un mundo desigual."
+Felicitas Torrecilla, Coordinadora de Investigación de Fundación Directorio Legislativo, explicó: "Pudimos ver que 13 gobiernos tuvieron que hacer importantes concesiones para firmar contratos, concesiones que hoy limitan - cuando no impiden - el acceso público a información crítica sobre los términos acordados y los precios que se han pagado por las vacunas en cada país. Estas cuestiones son cruciales para entender no sólo cómo se ha conducido el proceso para acceder a las vacunas, sino también los desafíos globales vinculados a la equidad sanitaria en un mundo desigual."
 
 ## Contratos y negociaciones bajo llave
 

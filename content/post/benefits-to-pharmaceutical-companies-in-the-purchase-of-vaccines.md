@@ -35,7 +35,7 @@ The information blackout was also replicated in Mexico. Four of the documents ma
 
 **In different ways, all of the laboratories demanded that countries change their laws to give them indemnity, which many countries were forced to accept.**
 
-Felicitas Torrecilla, Research Coordinator at Fundación Directorio Legislativo, explains: "We found that 12 governments had to make significant concessions to sign contracts, concessions which today restrict - if not prevent - public access to critical information about the terms agreed and the prices paid for vaccines in each country. This information is crucial to understanding not only how the process of accessing vaccines has been conducted, but also the global challenges associated with health equity in an unequal world."
+Felicitas Torrecilla, Research Coordinator at Fundación Directorio Legislativo, explains: "We found that 13 governments had to make significant concessions to sign contracts, concessions which today restrict - if not prevent - public access to critical information about the terms agreed and the prices paid for vaccines in each country. This information is crucial to understanding not only how the process of accessing vaccines has been conducted, but also the global challenges associated with health equity in an unequal world."
 
 ## Contracts and negotiations under lock and key
 
