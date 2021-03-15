@@ -4,6 +4,12 @@ description: "Contratos sin competencia con riesgo de corrupción, falta de tran
 images:
   - images/pandemia/pandemia-banner.jpg
 sites:
+  - name: ''
+    country: Reportaje regional
+    website: https://www.redpalta.org/post/los-beneficios-a-farmaceuticas-en-compra-de-vacunas/
+    bg: "images/pandemia/pandemia-contratos-vacuna.jpg"
+    title: Gobiernos de América Latina otorgaron beneficios legales y tributarios a farmacéuticas en compra de vacunas
+    description: A un año de la identificación de primeros casos en América Latina, un análisis de las medidas legales publicadas por los gobiernos determina que 13 países de América Latina cambiaron sus leyes para comprar la vacuna contra la covid-19 entre septiembre y febrero del 2021. Este es un reportaje liderado por la Red Palta.
   - name: Ojo Público
     country: Reportaje regional
     website: https://www.redpalta.org/post/pruebas-de-origen-chino/
