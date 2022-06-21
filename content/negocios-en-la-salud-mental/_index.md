@@ -72,7 +72,7 @@ La [legislación chilena sobre libre competencia](https://www.bcn.cl/leychile/na
 
 El investigador y analista de datos del Observatorio Fiscal de Chile, José Mora, considera que conductas como la colusión deberían ser consideradas entre los requisitos para calificar a los proveedores, pero estos son de carácter contractual. “El mal comportamiento del proveedor está relacionado con cosas que afectan las garantías de las licitaciones, como incumplimientos en la entrega del producto o retrasos”, explicó.
 
-![](/images/negocios-salud-mental/imagen-1.png)
+{{< figure class="max-w-lg mx-auto" src="/images/negocios-salud-mental/imagen-1.png" caption="CHILE. Entre 2017 y 2021 la Cenabast gestionó USD 124 millones de los USD 138 millones que invirtió el país en fármacos para la salud mental. Ilustración: OjoPúblico / Claudia Calderón" >}}
 
 Además de proveedores con condenas confirmadas, en la revisión de los contratos se identificaron compañías que tienen el monopolio de venta de determinados productos con la Cenabast. Una de estas es Johnson y Johnson de Chile S.A., que forma parte de la multinacional estadounidense y aparece como único proveedor de los antipsicóticos inyectables haloperidol 50 mg y risperidona de 37,5 mg, con acuerdos por un valor de USD 4,9 millones en los últimos cinco años. 
 
@@ -116,7 +116,7 @@ Por ejemplo, en la [subasta inversa electrónica 021-2018-Cenares/Minsa](https:/
 
 A pesar de ello, estos contratos se suscribieron al amparo de la [Ley 30680](https://www.mef.gob.pe/es/normatividad-sp-9867/por-instrumento/leyes/16645-ley-n-30680-1/file), que de manera excepcional autorizó al Cenares a aprobar subastas inversas electrónicas “con solo una oferta válida”. La mayor parte de los contratos analizados (2.409) se convocaron hasta el último día que estuvo vigente la excepción, el 31 de diciembre de 2018. Consultado al respecto, el Cenares sostuvo que si no aplicaban la norma corrían el riesgo de afectar el abastecimiento de estos productos.
 
-![](/images/negocios-salud-mental/imagen-2.png)
+{{< figure class="max-w-lg mx-auto" src="/images/negocios-salud-mental/imagen-2.png" caption="PERÚ. Entre 2017 y 2021, el Cenares realizó nueve compras corporativas que derivaron en 5390 contratos, valorados en USD 12,7 millones. Ilustración: OjoPúblico / Claudia Calderón" >}}
 
 La entidad adscrita al Minsa señaló que existen varias empresas y droguerías habilitadas para participar en los procesos, pero optan por comercializar sus productos en el sector privado. “Desde el 2019 no existe una norma que permita aprobar estos procedimientos con una sola oferta válida. En ese sentido, varios productos se declararon desiertos y pudieron ser adjudicados recién en un tercer intento, y a través de una adjudicación simplificada, la cual no exige dos propuestas válidas”, respondieron por escrito.
 
@@ -156,7 +156,7 @@ En Guatemala la modalidad preponderante fue la compra directa con oferta electr�
 
 La Red Palta buscó conocer la versión del Ministerio de Salud sobre la concentración de proveedores, pero el coordinador de comunicación de la cartera, Boris Barrios, no proporcionó una respuesta hasta el cierre de este reportaje. Las representantes legales de la empresa, cuyo dueño es Jack Irving Cohen Cohen, investigado por financiamiento electoral ilícito durante el mandato del expresidente Otto Pérez Molina (2012-2016), también fueron contactadas, pero no contestaron.
 
-![](/images/negocios-salud-mental/imagen-3.png)
+{{< figure class="max-w-lg mx-auto" src="/images/negocios-salud-mental/imagen-3.png" caption="SIN COMPETENCIA. En México y Guatemala la mayoría de los contratos de medicamentos básicos para la salud mental se aprobaron por adjudicación directa, sin pluralidad de postores.Ilustración: OjoPúblico / Claudia Calderón" >}}
 
 En México, en paralelo, se analizaron los 187 contratos que gestionó el Instituto Mexicano del Seguro Social (IMSS), entre 2019 y 2022, para adquirir los 16 psicofármacos del [Cuadro Básico de Medicamentos](http://www.csg.gob.mx/contenidos/priorizacion/cuadro-basico/med/proy-act.html) que se consideran esenciales para trastornos mentales y afectivos. Aquí, al igual que en los otros países analizados, la compra por adjudicación directa fue mayoritaria (81%), y solo cinco compañías facturaron el 80% de los USD 2’924.296 que se destinaron a estos productos.
 
