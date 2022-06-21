@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <div class="px-4 bg-cover bg-no-repeat bg-center py-16" style="background-image: url(/images/negocios-salud-mental/cover.jpg)">
+    <div class="w-full md:w-4/5 m-auto">
+      <h3 class="uppercase text-4xl md:text-6xl tracking-wider mb-4 px-4">
+        <span class="inline-block bg-black text-green-white px-4">Negocios en la</span><br>
+        <span class="inline-block bg-black text-green-white px-4">salud mental</span>
+      </h3>
+      <div class="max-w-md pl-4 mb-6 text-white">
+        <p class="italic font-light text-xl bg-black px-4">
+          Las compras públicas que realizaron cinco países latinoamericanos para abastecerse de medicamentos básicos en el tratamiento de trastornos mentales y afectivos fueron adjudicadas sin concurso público, a proveedores únicos o favoreciendo a empresas con malas prácticas corporativas. Una investigación liderada por la Red de Periodistas de América Latina para la Transparencia y la Anticorrupción, en la que participaron OjoPúblico (Perú), LaBot (Chile), Ojoconmipisto (Guatemala), la diaria (Uruguay), PODER (México) y La Nación (Argentina), accedió a los contratos de venta que se suscribieron entre 2017 y 2021 a favor de un reducido grupo de compañías, y analizó el escaso presupuesto que destinan estos seis gobierno para atender la salud mental de su población.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="px-4 py-12 md:py-24 bg-alabaster">
+    <div class="w-full md:w-4/5 mx-auto">
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Especiales</h2>
+      <div class="flex flex-wrap -m-6">
+        {{ range .Params.sites }}
+          <div class="w-full md:w-1/2 text-2xl p-6">
+            <p>{{ .title }}</p>
+            <p class="italic text-xl">{{ .publisher }}</p>
+            <a href="{{ .link }}" target="blank" class="uppercase mt-4 border-2 border-black px-4 py-1 tracking-wider hover:bg-black hover:text-white mr-4 inline-block text-xl">Leer artículo</a>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="px-4 py-24 bg-black">
+    <div class="w-full md:w-4/5 mx-auto bg-black text-alabaster">
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Sobre el proyecto</h2>
+      <p class="font-medium italic text-lg md:text-xl lg:max-w-4xl mb-4">Este reportaje forma parte de una investigación regional, liderada por la red de Periodistas de América Latina para la Transparencia y la Anticorrupción (Red PALTA), que integran La Diaria de Uruguay, OjoPúblico de Perú, Datasketch de Colombia, La Nación de Argentina, PODER de México y OjoConMiPisto de Guatemala y El Faro de El Salvador.</p>
+    </div>
+  </div>
+{{ end }}
