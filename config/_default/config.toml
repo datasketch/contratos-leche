@@ -1,3 +1,8 @@
 baseURL = "/"
 languageCode = "es-es"
 title = "Red PALTA"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
