@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <div class="px-4 bg-cover bg-no-repeat bg-center py-16" style="background-image: url(/images/negocios-salud-mental/cover.jpg)">
+    <div class="w-full md:w-4/5 m-auto">
+      <h3 class="uppercase text-4xl md:text-6xl tracking-wider mb-4 px-4">
+        <span class="inline-block bg-black text-green-white px-4">Procurement</span><br>
+        <span class="inline-block bg-black text-green-white px-4">in mental health</span>
+      </h3>
+      <div class="max-w-md pl-4 mb-6 text-white">
+        <p class="italic font-light text-xl bg-black px-4">
+          High levels of supplier concentration in mental health procurement and award of contracts without competition
+        </p>
+        <a href='{{ relref . "negocios-en-la-salud-mental/_index.md" }}' class="uppercase mt-2 border-black px-4 py-1 tracking-wider text-white inline-block text-xl" style="background-color: #c88552;">Full version in Spanish</a>
+      </div>
+    </div>
+  </div>
+  <p class="px-4 text-right bg-alabaster">Illustration: OjoPúblico / Claudia Calderón.</p>
+  <div class="px-4 py-12">
+    <div class="max-w-4xl mx-auto font-">
+      <h2 class="uppercase text-3xl md:text-5xl tracking-wider leading-tight">Concentración y contratos sin competencia en compras para la salud mental</h2>
+      <p class="italic mt-4 text-lg">Por Elizabeth Salazar, Ignacia Velasco, Isaías Morales, Bruno Scelza, Federica Pérez, Ricardo Balderas y Florencia Rodríguez Altube. </p>
+      <div class="mt-8 font-normal text-lg md-content md:text-2xl">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+{{ end }}

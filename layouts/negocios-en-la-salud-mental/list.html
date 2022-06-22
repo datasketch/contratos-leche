@@ -15,7 +15,10 @@
   <p class="px-4 text-right bg-alabaster">Ilustración: OjoPúblico / Claudia Calderón.</p>
   <div class="px-4 py-12 md:py-24 bg-alabaster">
     <div class="w-full md:w-4/5 mx-auto">
-      <h2 class="uppercase text-3xl md:text-5xl tracking-wider mb-10">Especiales</h2>
+      <div class="mb-10">
+        <h2 class="uppercase text-3xl md:text-5xl tracking-wider">Especiales</h2>
+        <a href='{{ relref . "procurement-in-mental-health/_index.md" }}' class="uppercase mt-2 border-black px-4 py-1 tracking-wider text-white inline-block text-xl" style="background-color: #c88552;">English version</a>
+      </div>
       <div class="flex flex-wrap -m-6">
         {{ range .Params.sites }}
           <div class="w-full md:w-1/2 text-2xl p-6">
