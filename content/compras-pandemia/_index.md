@@ -38,7 +38,7 @@ sites:
     description: "A diferencia de otros países de Latinoamérica, como Argentina y Perú que optan por comprar pruebas rápidas de China o Estados Unidos, Guatemala se inclina por las que proveen Boditech Med Inc, SD Biosensor y Biocredit Rapigen, fabricadas en Corea del Sur. El 96 por ciento de estos insumos registrados en  Guatecompras fueron para adquirir las de SD Biosensor, una marca que según el registro del ministerio de Salud solo lo importa Labymed S.A. Las otras dos, Rapigen y Bioditech, representan el resto"
   - name: Datasketch
     country: Colombia
-    website: "https://www.datasketch.news/p/las-variaciones-en-costos-de-pruebas-rapidas-de-covid-19-en-colombia"
+    website: "https://www.datasketch.co/p/las-variaciones-en-costos-de-pruebas-rapidas-de-covid-19-en-colombia"
     bg: "images/pandemia/pandemia-datasketch-3.jpg"
     title: "Las variaciones en costos de pruebas rápidas de COVID-19 en Colombia"
     description: "Colombia ha contratado pruebas rápidas hasta por 70 mil pesos (18 dólares). Datasketch analizó 63 contratos de entidades del Estado que adquirieron pruebas de COVID-19 (PCR o rápidas) para saber cuáles son sus proveedores locales, cuántas pruebas se han comprado y de dónde vienen."
@@ -50,7 +50,7 @@ sites:
     description: "Cerca de 70 mil mascarillas N95, que fueron adquiridas por Argentina, Colombia, México, Perú y Uruguay costaron hasta dos veces más que el valor unitario promedio de estos respiradores en la región. El sobreprecio de trece de estas adquisiciones representó un gasto adicional de más de US$250 mil por parte de las autoridades de estos países."
   - name: Datasketch
     country: Colombia
-    website: https://www.datasketch.news/p/mascarillas-con-sobreprecios-y-nexos-en-panama-en-los-contratos-por-covid-19
+    website: https://www.datasketch.co/p/mascarillas-con-sobreprecios-y-nexos-en-panama-en-los-contratos-por-covid-19
     bg: images/pandemia/pandemia-datasketch-2.jpg
     title: "Mascarillas con sobreprecios y nexos en Panamá en los contratos por COVID-19"
     description: "Con más de $132 millones de dólares contratados, las empresas que se están llevando la mayor tajada en suministros para enfrentar la emergencia sanitaria por COVID-19 en Colombia tienen conexiones en Panamá y están vendiendo mascarillas N95 por hasta el doble del precio."
@@ -81,7 +81,7 @@ sites:
     description: "En El Salvador, el Gobierno pagó millones de dólares para adquirir mascarillas KN95 y mascarillas quirúrgicas con sospecha de sobreprecio a proveedores sin experiencia en la venta de insumos médicos. Entre estos destacan una empresa de cerámicas radicada en Miami y una empresa dedicada a la informática fundada por un diputado de la República aliado del gobierno Bukele."
   - name: Datasketch
     country: Colombia
-    website: https://www.datasketch.news/p/colombia-abrio-las-puertas-a-la-adjudicacion-sin-concurso-y-a-la-modificacion-de-contratos
+    website: https://www.datasketch.co/p/colombia-abrio-las-puertas-a-la-adjudicacion-sin-concurso-y-a-la-modificacion-de-contratos
     bg: images/pandemia/pandemia-datasketch.jpg
     title: Colombia abrió las puertas a la adjudicación sin concurso y a la modificación de contratos
     description: "El gobierno declaró el Estado de Emergencia el 17 de marzo de 2020 y autorizó el procedimiento de contratación directa para las compras de bienes y servicios de emergencia de COVID-19. Al mismo tiempo ha autorizado la posibilidad de realizar adendas y modificar los contratos."
